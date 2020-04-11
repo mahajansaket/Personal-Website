@@ -1,6 +1,6 @@
 ---
 date: '2018'
-title: 'Engineer'
+title: 'Software Engineer Intern'
 company: 'InFor500'
 location: 'Santa Clara, CA'
 range: 'June 2019 - Present'

@@ -25,6 +25,10 @@ module.exports = {
       name: 'Codepen',
       url: 'https://codepen.io/mahajansaket',
     },
+    {
+      name: 'StackOverflow',
+      url: 'https://stackoverflow.com/users/11246120/killme',
+    },
   ],
 
   navLinks: [

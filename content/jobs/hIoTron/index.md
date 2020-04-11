@@ -1,6 +1,6 @@
 ---
 date: '2017'
-title: 'Software Engineer Co-op'
+title: 'Software Engineer Intern'
 company: 'hIoTron'
 location: 'Santa Clara, CA'
 range: 'May - Jul 2017'
