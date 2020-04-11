@@ -109,8 +109,8 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Brittany Chiang</title>
-        <link rel="canonical" href="https://brittanychiang.com/archive" />
+        <title>Archive | Saket Mahajan</title>
+        <link rel="canonical" href="https://smahajan.com/archive" />
       </Helmet>
 
       <StyledMainContainer>
@@ -235,7 +235,6 @@ export const pageQuery = graphql`
             tech
             github
             external
-            ios
             android
             company
           }
