@@ -1,5 +1,5 @@
 ---
-date: '2016-12-21'
+date: '2017'
 title: 'Software Engineer Co-op'
 company: 'hIoTron'
 location: 'Santa Clara, CA'

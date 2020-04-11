@@ -1,5 +1,5 @@
 ---
-date: '2017-12-21'
+date: '2015'
 title: 'Corporate Finance Intern'
 company: 'AIESEC'
 location: 'Flic en Flac, Mauritius'

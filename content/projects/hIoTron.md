@@ -1,5 +1,5 @@
 ---
-date: '2018-10-01'
+date: '3'
 title: 'hIoTron'
 github: ''
 external: 'https://www.hiotron.com/'

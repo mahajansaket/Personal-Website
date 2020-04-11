@@ -1,5 +1,5 @@
 ---
-date: '2016-01-01'
+date: '1'
 title: 'Sinatra App'
 github: 'https://github.com/mahajansaket/Sinatra-App'
 external: 'https://agile-cove-39529.herokuapp.com/'

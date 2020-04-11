@@ -1,5 +1,5 @@
 ---
-date: '2019-03-01'
+date: '4'
 title: 'Smart Home Hub'
 github: 'https://github.com/mahajansaket/Home-Information-Hub'
 external: ''

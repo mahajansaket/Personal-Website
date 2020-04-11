@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2018'
 title: 'Engineer'
 company: 'InFor500'
 location: 'Santa Clara, CA'
