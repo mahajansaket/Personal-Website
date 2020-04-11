@@ -9,7 +9,7 @@ tech:
   - NodeMCU
   - BeagleBone Black
 company: 'hIoTron'
-showInProjects: false
+showInProjects: true
 ---
 
 hIOTron® is an Indian technology corporation focused on development & implementation of end-to-end IoT solutions, products & services.
