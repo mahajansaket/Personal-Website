@@ -1,6 +1,6 @@
 ---
-date: '2'
-title: 'Spotify Profile'
+date: '1'
+title: 'Chat Bot Application'
 cover: './chatbot.jpg'
 github: ''
 external: 'https://s3-us-west-2.amazonaws.com/resume-chat/index.html'
