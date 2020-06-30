@@ -7,8 +7,8 @@ Here you will find all the details and source code for my website.
 | Page No. | Page Title       | Webpage URL 	|
 | -------- | ---------------- |-----------------|
 | Page 1   | Home Page        |www.smahajan.com.|
-| Page 2   | Chat application |chat.smahajan.com|
-| Page 3   | Mail application |mail.smahajan.com|
+| Page 2   | Mail application |mail.smahajan.com|
+| Page 3   | Chat application |chat.smahajan.com|
 
 My website currently contains 3 different pages:
 
